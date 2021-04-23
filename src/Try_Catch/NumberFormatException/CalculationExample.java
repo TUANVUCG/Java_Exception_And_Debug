@@ -11,8 +11,8 @@ public class CalculationExample {
         int y = scanner.nextInt();
         CalculationExample calc = new CalculationExample();
         calc.calculate(x, y);
-
     }
+
 
     private void calculate(int x, int y) {
         try {
